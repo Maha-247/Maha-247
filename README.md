@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**Maha-247/Maha-247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Mahalakshmi Maha-247/Maha-247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
