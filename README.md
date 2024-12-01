@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm Mahalakshmi
-Software Developer
-Python | SQL | Machine Learning
+-I'm Mahalakshmi
+-Software Developer
+-Python | SQL | Machine Learning
 
 <!--
 **I'm Mahalakshmi Maha-247/Maha-247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
