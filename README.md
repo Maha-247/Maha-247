@@ -1,9 +1,11 @@
-## Hi there 👋
+                                         ## Hi there 👋
 
--I'm Mahalakshmi
+                            -I'm Mahalakshmi
 
--Software Developer
+                            -Software Developer
 
--Python | SQL | Machine Learning
+                            -Python | SQL | Machine Learning
+
+
 
 
